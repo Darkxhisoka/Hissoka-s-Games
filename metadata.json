@@ -1,0 +1,6 @@
+{
+  "name": "Hissoka's Games - Digital Store & Admin Vault",
+  "description": "Cross-platform digital store and admin fulfillment system for Xbox Game Pass, PSN Plus, and game keys with Algerian BaridiMob payments and secure account vault.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
